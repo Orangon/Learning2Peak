@@ -20,11 +20,11 @@ site:
     - title: License
       uri: /pages/license/index.html
   git:
-    base-url: https://github.com/wuchenglong/Learning2Peak/blob/main/source
+    base-url: https://github.com/Orangon/Learning2Peak/blob/main/source
   contact:
-    name: Wuchenglong
-    github: https://github.com/wuchenglong
-    twitter: https://twitter.com/liaoxuefeng
+    name: Orangon
+    github: https://github.com/Orangon
+    twitter: https://twitter.com/oooooooooooo
   books:
     index-marker: true
   search:
