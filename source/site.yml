@@ -1,6 +1,7 @@
 site:
   # set the domain with schema but without trailing slash:
   domain: 'https://gitsite.org'
+  root-path: /Learning2Peak
   title: Learning2Peak
   description: Learning2Peak is a static web site generator for Git.
   keywords: learning2peak, git, static web site, html
