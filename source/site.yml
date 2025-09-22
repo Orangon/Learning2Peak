@@ -13,8 +13,8 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: Claude Code Guide
-      uri: /books/ClaudeCode/index.html
+    - title: AI Coding Guide
+      uri: /books/AI-coding/index.html
     - title: 2025热点追踪
       uri: /books/2025-Cyber-Tracking/index.html
     - title: Blogs
