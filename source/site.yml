@@ -15,8 +15,8 @@ site:
   navigation:
     - title: AI Coding Guide
       uri: /books/AI-coding/index.html
-    - title: 2025热点追踪
-      uri: /books/2025-Cyber-Tracking/index.html
+    - title: Cyber Tracking
+      uri: /books/Cyber-Tracking/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
