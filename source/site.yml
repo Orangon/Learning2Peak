@@ -15,6 +15,8 @@ site:
   navigation:
     - title: Claude Code Guide
       uri: /books/ClaudeCode/index.html
+    - title: 2025热点追踪
+      uri: /books/2025-Cyber-Tracking/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
