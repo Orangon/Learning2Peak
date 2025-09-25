@@ -42,10 +42,10 @@ CLAUDE.md的三种形态：
 `write tests for xxx think a lot`
 pytest
 # 06 同时新增多个功能
-通过git-worktrees实现并行化：
-`git worktree add .trees/xxx-feature` 就可以在.trees文件夹下新建工作树
-通过.claude/commands下面新增md文件，重启后可以新增自定义命令（提示词）
-通过设置settings.local.json，可以默认允许CC操作(/permission-tools)，如：
+1. 通过git-worktrees实现并行化：
+`git worktree add .trees/xxx-feature` 就可以在.trees文件夹下新建工作树，在写完之后，还可以让CC自动合并worktree并解决冲突。
+2. 通过.claude/commands下面新增md文件，重启后可以新增自定义命令（提示词）
+3. 通过设置settings.local.json，可以默认允许CC操作(/permission-tools)，如：
 ```json
 "permissions":{
 	"allow": [
@@ -64,4 +64,13 @@ pytest
 	"deny":[]
 }
 ```
+# 07 集成Github Actions和Hooks
 
+1. 将Claude Code通过Github Actions与仓库连接起来： `/install-github-app`（但是这个我报错：
+Install GitHub App                                                                   
+Error: Failed to access repository Orangon/Learning2Peak                  
+Reason: GitHub Actions setup failed
+2. 通过`/hooks`功能，可以在使用工具前、使用工具后、会话开始前、任务结束后等触发命令工具（直接操纵电脑，因此会有警告）。例如`say "hello"`会语音播报“hello”
+# 飞书文档资源
+
+https://www.feishu.cn/community/article?id=7525736129069318147
