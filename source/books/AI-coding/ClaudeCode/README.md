@@ -44,7 +44,7 @@ pytest
 # 06 同时新增多个功能
 1. 通过git-worktrees实现并行化：
 `git worktree add .trees/xxx-feature` 就可以在.trees文件夹下新建工作树，在写完之后，还可以让CC自动合并worktree并解决冲突。
-2. 通过.claude/commands下面新增md文件，重启后可以新增自定义命令（提示词）
+2. 通过在.claude/commands下面新增md文件，重启后CC可以新增自定义斜杠命令（Slash Commands）。通过输入`/`就能触发。
 3. 通过设置settings.local.json，可以默认允许CC操作(/permission-tools)，如：
 ```json
 "permissions":{
@@ -74,3 +74,13 @@ Reason: GitHub Actions setup failed
 # 飞书文档资源
 
 https://www.feishu.cn/community/article?id=7525736129069318147
+
+# Claude Code 实践积累
+
+## 01 将常用的命令添加为Slash Commands
+
+我会将常用的Git操作，例如“帮我提交所有修改”、“帮我查看最近的提交记录”等添加为Slash Commands。
+
+## 02 将文档存放在docs文件夹下，并且及时更新
+
+我会将需求文档、设计文档、UI文档等存放在docs文件夹下，并且随着git tag的更新，及时更新文档。
