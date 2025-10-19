@@ -17,6 +17,8 @@ site:
       uri: /books/AI-coding/index.html
     - title: Cyber Tracking
       uri: /books/Cyber-Tracking/index.html
+    - title: SeekingComfortZone
+      uri: /books/SeekingComfortZone/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
