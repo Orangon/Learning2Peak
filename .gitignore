@@ -2,6 +2,9 @@
 
 #################### Node.gitignore ####################
 
+# IDEA
+.idea/
+
 # Logs
 logs
 *.log
