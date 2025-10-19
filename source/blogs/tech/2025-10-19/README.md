@@ -24,7 +24,10 @@
    - 在 `VSCode` 上右键 → 新建 → 项，命名为 `command`
    - 在右侧窗口双击"默认"，输入 VS Code 的安装路径：
      ```
-     "C:\Users\你的用户名\AppData\Local\Programs\Microsoft VS Code\Code.exe" "%V"
+     "C:\Users\你的用户名\AppData\Local\Programs\Microsoft VS Code\Code.exe" -n "%V"
+     ```
+     ```
+     "C:\Users\你的用户名\AppData\Local\Programs\Microsoft VS Code\Code.exe" -r "%V"
      ```
 
 3. **为文件添加右键菜单**
@@ -35,6 +38,12 @@
    - 导航到：`HKEY_CLASSES_ROOT\Directory\Background\shell`
    - 重复上述步骤 2 的操作
 
+注意：
+
+1. -n 是使用新窗囗打开，-r 是使用当前窗口打开
+2. 更改了不需要重启
+3. 注意大小写，双引号（英文双引号），句号（英文）空格，路径（自身电脑 vscode 打开路径）
+4. OpenWithVSCode 是右键显示的名称，可自行更改， command 是启动命令，不加会无法执行， Icon 是图标，也可自行更改
 
 ### 常见 VS Code 安装路径：
 - `C:\Users\用户名\AppData\Local\Programs\Microsoft VS Code\Code.exe`
