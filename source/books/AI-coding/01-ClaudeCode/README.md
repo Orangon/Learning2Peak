@@ -83,7 +83,7 @@ export ANTHROPIC_SMALL_FAST_MODEL="glm-4.5-air"
 （如果你使用的是 Bash，则执行 `source ~/.bash_profile`）
 ## 04更新
 
-`npm update -g @anthropic-ai/claude-code`
+`claude update`
 
 ## 05卸载
 
