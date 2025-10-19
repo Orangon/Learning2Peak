@@ -2,6 +2,8 @@
 
 #################### Node.gitignore ####################
 
+# CLAUDE
+*.local
 # IDEA
 .idea/
 
