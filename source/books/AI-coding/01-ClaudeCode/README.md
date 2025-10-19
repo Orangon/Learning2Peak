@@ -1,3 +1,96 @@
+# 安装、配置与更新
+
+前置条件：Node.js>=22
+
+## 01安装
+
+打开 PowerShell/终端 运行`npm install -g @anthropic-ai/claude-code`
+
+> 命令解释：@anthropic-ai/claude-code 是一个 Node.js 包，NPM 是包的管理工具，install 表示从网络上寻找并安装包，-g 是 --global 的简称，表示全局安装（不需要每个项目内部再次安装）。
+
+安装之后可以通过运行`claude --version`来查看版本号，从而确定是否安装成功，
+或者通过运行`npm list -g`查看全局安装的包是否含有@anthropic-ai/claude-code。
+
+## 02配置
+
+打开.claude.json文件（推荐使用Everything），
+添加一行配置：`"hasCompletedOnboarding": true`，表示已经登陆过，这样可以绕过Claude的登录要求。
+
+## 03切换模型
+
+修改环境变量，使 Claude Code 能够使用 GLM 系列模型为默认模型。
+
+请务必将 "你的智谱API Key" 替换为你自己在第一步中获取的真实 API Key。
+
+这里配置了2个模型：GLM-4.6 和 GLM-4.5-air。
+> ANTHROPIC_API_KEY: 你的身份凭证。
+> 
+> ANTHROPIC_BASE_URL: 告诉 Claude Code 将请求发送到智谱的兼容接口，而不是 Anthropic 的官方接口。
+> 
+> ANTHROPIC_MODEL: 指定要使用的模型。
+
+
+### Windows
+
+1. 添加永久生效的设置：
+
+```shell
+[System.Environment]::SetEnvironmentVariable("ANTHROPIC_BASE_URL", "https://open.bigmodel.cn/api/anthropic", [System.EnvironmentVariableTarget]::User)
+
+[System.Environment]::SetEnvironmentVariable("ANTHROPIC_API_KEY", "你的智谱API Key", [System.EnvironmentVariableTarget]::User)
+
+[System.Environment]::SetEnvironmentVariable("ANTHROPIC_MODEL", "glm-4.6", [System.EnvironmentVariableTarget]::User)
+
+[System.Environment]::SetEnvironmentVariable("ANTHROPIC_SMALL_FAST_MODEL", "glm-4.5-air", [System.EnvironmentVariableTarget]::User)
+```
+2. 验证设置生效：
+
+新开一个PowerShell运行`echo $env:ANTHROPIC_BASE_URL`，打印出正确的URL就说明设置生效了。
+
+### Mac OS
+
+1. 确定你使用的 Shell
+
+打开“终端”（Terminal），输入：`echo $SHELL`
+
+如果输出是 /bin/zsh，说明你使用的是 Zsh（macOS Catalina 及以后版本的默认 Shell）。
+如果输出是 /bin/bash，说明你使用的是 Bash。
+
+2. 编辑配置文件
+
+以使用 Zsh 为例，在终端中输入：`open -e ~/.zshrc`
+
+这个命令会使用默认的文本编辑器打开配置文件。如果文件不存在，它会自动创建一个。
+
+3. 添加环境变量
+在打开的 ~/.zshrc 文件末尾，添加以下三行内容：
+
+```json
+# Claude Code: 使用智谱 GLM 模型
+export ANTHROPIC_API_KEY="你的智谱API Key"
+export ANTHROPIC_BASE_URL="https://open.bigmodel.cn/api/anthropic"
+export ANTHROPIC_MODEL="glm-4.6"
+export ANTHROPIC_SMALL_FAST_MODEL="glm-4.5-air"
+```
+
+注意：如果你使用的是 Bash，请将上述内容添加到 ~/.bash_profile 文件中，编辑命令为 open -e ~/.bash_profile。
+
+4. 应用配置
+
+保存并关闭文本编辑器。回到终端，执行以下命令让刚才的配置立即生效：
+`source ~/.zshrc`
+
+（如果你使用的是 Bash，则执行 `source ~/.bash_profile`）
+## 04更新
+
+`npm update -g @anthropic-ai/claude-code`
+
+## 05卸载
+
+`npm uninstall -g @anthropic-ai/claude-code`
+
+然后手动删除`.claude`文件夹
+
 # 吴恩达Claude Code课程笔记
 
 ## 01
