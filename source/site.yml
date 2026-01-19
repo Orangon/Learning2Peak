@@ -19,6 +19,8 @@ site:
       uri: /books/Cyber-Tracking/index.html
     - title: SeekingComfortZone
       uri: /books/SeekingComfortZone/index.html
+    - title: Smart Collection
+      uri: /books/Smart-Collection/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
     - title: License
