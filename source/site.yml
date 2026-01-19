@@ -50,7 +50,7 @@ site:
       name: gitsite
     analytics:
       provider: google
-      gtag: G-5Z40K7NBL5
+      gtag: G-DMBXQCJRVL
 
 build:
   # copy special files under root dir (ignore if not found):
