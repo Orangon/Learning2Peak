@@ -13,13 +13,13 @@ site:
   # set cdn path:
   cdn-path: https://cdn.jsdelivr.net/npm
   navigation:
-    - title: AI Coding Guide
+    - title: 码上码馆
       uri: /books/AI-coding/index.html
-    - title: Cyber Tracking
+    - title: 赛博史馆
       uri: /books/Cyber-Tracking/index.html
-    - title: SeekingComfortZone
+    - title: 寻己馆
       uri: /books/SeekingComfortZone/index.html
-    - title: Smart Collection
+    - title: 智慧馆
       uri: /books/Smart-Collection/index.html
     - title: Blogs
       uri: /blogs/tech/index.html
