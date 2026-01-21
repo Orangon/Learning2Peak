@@ -1,5 +1,6 @@
 # How to Control Yourself
 
+
 ## 一、原文+初步翻译
 
 Why is self-control so hard?
@@ -57,7 +58,7 @@ Many struggling with self-control are in an unrecognized **crisis state**, and t
 
 ---
 
-## Key takeaway: Don’t rely on self-control
+## Key takeaway: Don’t rely on self-control 关键点：不要依赖自控力
 
 The key takeaway of this article is that self-control has to be managed like a limited, **scarce** resource.
 
@@ -75,7 +76,6 @@ If you enjoy this article, you may enjoy articles in the least-resistance series
 
 I also recommend [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B09YTXNR2H?_encoding=UTF8&qid=1662121609&sr=8-1&linkCode=ll1&tag=mmamzn06-20&linkId=ef16a1713ba86c29328bd2ee66e66683&language=en_US&ref_=as_li_ss_tl) by James Clear, which takes this approach to its limit.
 
-## 关键点：不要依赖自控力
 
 本文的核心观点就是：像管理一种有限且重要的资源一样管理自控力。
 
@@ -94,7 +94,7 @@ I also recommend [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Bu
 
 ---
 
-## The paradox of self-control
+## The paradox of self-control 自控力的悖论
 
 It’s easiest to define self-control through the absence of self-control.
 
@@ -109,7 +109,6 @@ You _choose_ to abstain from eating or eat candy.
 You _choose_ to lay in bed or go for a run.
 
 Yet if you control your actions, why is regret over choices with foreseeable outcomes such a common occurrence?
-# 自控力的悖论
 
 通过自控力的缺席来定义自控力轻而易举。
 
@@ -133,11 +132,11 @@ Akrasia is a practical way to think about what self-control means: if we have hi
 
 Improving self-control, practically speaking, is minimizing akrasia.
 
-每当你没能做到你认为你应该做的事时，你都是在经历一种哲学家称为*akrasia*的感受。
+每当你没能做到你认为你应该做的事时，你都是在经历一种哲学家称为意志薄弱的感受。
 
-akrasia 是一种思考自控力是什么的可操作方式：如果我们拥有高自控力，我们就会经历低akrasia；如果我们拥有低自控力，我们就会经历高akrasia。
+意志薄弱是一种思考自控力是什么的可操作方式：如果我们拥有高自控力，我们经历的意志薄弱就少；如果我们拥有低自控力，我们经历的意志薄弱就多。
 
-提高自控力，实际上就是说，减少akrasia。
+提高自控力，实际上就是尽量减少意志薄弱。
 
 ---
 
@@ -147,11 +146,11 @@ Some early philosophers and some modern non-philosophers even argue that akrasia
 
 Unfortunately, defining akrasia out of existence leaves foreseeable regret intact.
 
-关于人类为何出现akrasia行为的理论还要追溯到百万年前。
+关于人类为何出现意志薄弱行为的理论还要追溯到几千年前。
 
-有些早期哲学家和一些现代非哲学家甚至声称百万年前是不可能的：从他们的角度看，如果你做过某件事，那么这确实有一部分的你偏好做这件事。
+有些早期哲学家和一些现代非哲学家甚至声称意志薄弱是不可能的：从他们的角度看，如果你做过某件事，那么这确实有一部分的你偏好做这件事。
 
-不幸的是，从实际出发，定义akrasia能让可预计的后悔完整。
+不幸的是，即使将akrasia的定义排除在外，也无法消除那些可预见的遗憾。
 
 ---
 
@@ -168,7 +167,96 @@ A stronger will leads to actions more in alignment with better judgment.
 
 But, what exactly _is_ will?
 
-## 2个模型
+如果以可预见的后悔作为衡量标准，akrasia**随处可见**：成瘾、暴饮暴食、拖延和睡眠不足都是akrasia的例子。
+
+直觉告诉我们，我们之所以产生akrasia行为是因为缺乏“意志力”。
+
+实际上，依据牛津词典的定义，akrasia指的是：
+
+> 一个人由于意志力薄弱而违背**理智判断**的心智状态。
+
+强大的意志力可以让行为与理智判断更一致。
+
+但，*意志力*究竟是什么？
+
+## A abstract model of will 一个意志力的抽象模型
+
+To avoid a philosophical debate around the definition of will, I’m going to stick to the reframed problem of minimizing akrasia.
+
+That is, we’re trying to minimize the difference between what we felt we should have done and what we actually did.
+
+By the definition of akrasia, “will” is whatever accounts for this difference.
+
+And, we can measure akrasia in the amount of foreseeable regret experienced.
+
+---
+
+为了避免引发对于意志的定义的哲学辩论，我将坚持使用“尽量减少意志薄弱”来重新定义问题。
+
+这就是说，我们要试着减少我们感觉应做的事与实际上做的事之间的差异。
+
+通过对akrasia进行定义，“意志力”就是导致这个差异的原因。
+
+然后，我们就可以通过经历了多少可预见的后悔，来衡量akrasia的多少。
+
+---
+
+So, without _defining_ will, we can still model and measure it.
+
+For any given model of will, it can be put to the test empirically:
+
+1. Do actions that should strengthen will under this model lead to less akratic behavior?
+2. Do actions that should weaken will under this model lead to more akratic behavior?
+
+Fortunately, there is a lot of scientific (and non-scientific) literature on self-control from which to pluck models of will.
+
+More importantly, as _you_ begin to experiment with self-control, you can use these same metrics to figure out what works for you and what doesn’t.
+
+于是，我们不需要定义意志是什么，仍然可以对其进行建模和测量。
+
+对于任何意志的模型，都可以测试：
+
+1. 在这个模型中，应当强化意志的行为会减少akrasia行为吗？
+2. 在这个模型中，应当弱化意志的行为会增加akrasia行为吗？
+
+幸运的是，世界上有大量关于自控力的科研（与非科研）文献可供提取意志模型。
+
+更重要的是，当你开始做自控力的实验时，你可以用同样的标准来弄清楚什么方法对你有用，什么没用。
+
+---
+
+For an accessible review of the research on self-control, I highly recommend [Willpower](https://www.amazon.com/Willpower-Rediscovering-Our-Greatest-Strength/dp/0141049480?_encoding=UTF8&qid=1664889254&sr=8-3&linkCode=ll1&tag=mmamzn06-20&linkId=5886e62b01b02c8db57ef4dc9b318ecc&language=en_US&ref_=as_li_ss_tl) by Baumeister and Tierny:
+
+Drawing on the research surveyed in [Willpower](https://www.amazon.com/Willpower-Rediscovering-Our-Greatest-Strength/dp/0141049480?_encoding=UTF8&qid=1664889254&sr=8-3&linkCode=ll1&tag=mmamzn06-20&linkId=5886e62b01b02c8db57ef4dc9b318ecc&language=en_US&ref_=as_li_ss_tl), I’ll describe a relatively simple model of will that has two elements: (1) willpower and (2) “willenergy”.
+
+In present usage, the term _willpower_ seems to be used to refer to both concepts, but there is value in splitting them apart.
+
+对于自控力研究综述，我非常推荐Baumeister 与 Tierny 合著的《意志力》。
+
+引用《意志力》中的研究，我会描述一个相对简单的意志模型，包括2个元素：意志力和“意志能量”。
+
+在当前，_willpower_ 这个术语似乎被同时用来指代这两个概念，但将他们分开表达是很有价值的。
+
+### What is willpower? 什么是意志力
+
+Willpower is the capacity to act in spite of a specific aversion or not act in spite of a specific urge.
+
+For stronger urges and aversions, it takes higher willpower to overcome them.
+
+For example, turning down a bowl of broccoli takes less willpower than turning down a bowl of ice cream.
+
+In the research, willpower is likened to a muscle: there is a maximum capacity for exertion.
+
+And, attempting to override an urge or aversion too strong results in willpower failure: we engage in a behavior where we know our future self will experience what was foreseeable regret.
+
+For example, if you have a presentation due tomorrow morning, but you stay up late procrastinating on Netflix instead of working on it, you _know_ you’re going to regret your behavior come morning.
+
+In this case, the urge to watch Netflix combined with the aversion to the work was too strong for your willpower to overcome in the moment.
+
+This definition also provides the first hint about how to improve self-control.
+
+Suppose you are working from a coffee shop instead of home. Suppose you leave your headphones home too. Now you _can’t_ watch Netflix. Now, your willpower only has to overcome the aversion to the work rather than also fight the urge to watch Netflix.
+
 
 心理学上：
 意志力是克服厌恶情绪把工作推进下去，或者克服强烈冲动的能力。
@@ -241,9 +329,9 @@ But, what exactly _is_ will?
 这篇文章提出了两个互补的“意志”模型，旨在增强自控力：
 
 1. 一个抽象的**心理模型**，将意志分解为“意志力”（willpower）和“意志能量”（willenergy）。
-    
+   
 2. 一个**神经生物学模型**，通过神经传递的角度来看待意志。
-    
+   
 
 目标是提供能够导致更高自控力的有效技术。
 
@@ -260,11 +348,11 @@ But, what exactly _is_ will?
 如果你喜欢这篇文章，你可能也会喜欢“最小阻力”系列的文章：
 
 - 最小阻力生产力
-    
+  
 - 最小阻力减肥
-    
+  
 - 最小阻力力量训练
-    
+  
 
 我还推荐 James Clear 的《原子习惯》（_Atomic Habits_），它将这种方法发挥到了极致。
 
@@ -305,9 +393,9 @@ Akrasia 是思考自控力含义的一种实用方式：如果我们自控力高
 因此，即使不给意志下定义，我们仍然可以对其进行建模和测量。对于任何给定的意志模型，都可以进行经验测试：
 
 - 根据该模型应该增强意志的行为，是否导致了更少的 akrasia？
-    
+  
 - 根据该模型应该削弱意志的行为，是否导致了更多的 akrasia？
-    
+  
 
 幸运的是，关于自控力已经有大量的科学（和非科学）文献，可以从中提取意志模型。
 
@@ -412,9 +500,9 @@ Akrasia 是思考自控力含义的一种实用方式：如果我们自控力高
 认识到任何时刻的意志力都有一个最大耐受极限，这产生了两种管理策略：
 
 1. 增加这个极限——增加意志力可以压制的冲动或厌恶的最大值。
-    
+   
 2. 将“应做”的行为降至极限以下，同时将“不应做”的行为推至极限以上。
-    
+   
 
 意志力黑客：避免诱惑
 
