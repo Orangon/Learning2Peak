@@ -189,8 +189,6 @@ By the definition of akrasia, “will” is whatever accounts for this differenc
 
 And, we can measure akrasia in the amount of foreseeable regret experienced.
 
----
-
 为了避免引发对于意志的定义的哲学辩论，我将坚持使用“尽量减少意志薄弱”来重新定义问题。
 
 这就是说，我们要试着减少我们感觉应做的事与实际上做的事之间的差异。
@@ -245,6 +243,14 @@ For stronger urges and aversions, it takes higher willpower to overcome them.
 
 For example, turning down a bowl of broccoli takes less willpower than turning down a bowl of ice cream.
 
+意志力是面对特定情绪仍然行动，或者面对强烈冲动仍然不行动的能力。
+
+越是强烈的冲动或者厌恶，就越是需要更强的意志力来克服。
+
+比如说拒绝一碗西兰花，比拒绝一碗冰淇淋需要的意志力更少。
+
+---
+
 In the research, willpower is likened to a muscle: there is a maximum capacity for exertion.
 
 And, attempting to override an urge or aversion too strong results in willpower failure: we engage in a behavior where we know our future self will experience what was foreseeable regret.
@@ -253,32 +259,134 @@ For example, if you have a presentation due tomorrow morning, but you stay up la
 
 In this case, the urge to watch Netflix combined with the aversion to the work was too strong for your willpower to overcome in the moment.
 
+在这项研究中，意志力被类比成肌肉，拥有最大使用极限。
+
+以及，尝试克服过于强大的冲动或厌恶会导致意志力失效：我们会产生一种行为，即知道未来的自己会经历可预见的后悔。
+
+比如说你明天早晨有一个演讲，但是你熬夜拖延看剧而不是准备演讲，你其实知道第二天早上你会对你的行为感到后悔。
+
+在这种情况下，看剧的冲动和对工作的厌恶过于强大，以至于你一时间无法依靠意志力来克服。
+
+> 这正是我每一次准备组会时的处境。
+
+---
+
 This definition also provides the first hint about how to improve self-control.
 
 Suppose you are working from a coffee shop instead of home. Suppose you leave your headphones home too. Now you _can’t_ watch Netflix. Now, your willpower only has to overcome the aversion to the work rather than also fight the urge to watch Netflix.
 
+这种定义也提供了如何提高自控力的第一个技巧。
 
-心理学上：
-意志力是克服厌恶情绪把工作推进下去，或者克服强烈冲动的能力。
-意志力像肌肉，可以锻炼，在多次使用后会减弱。
-远离那些暗示你可以娱乐的
+假设你在一家咖啡店里工作，而不是在家里。假设你也把你的耳机忘在了家里。现在你不能看剧了。现在你只需用意志力来克服对工作的厌恶，而不需要再克服看剧的冲动。
 
-意志能量是像电池一样，工作了一天，很难再投入到减脂餐，锻炼或者长期有利的事情，就想躺平吃炸鸡和看电视。
+> 远离那些暗示你可以娱乐的。
 
-*我不明白为什么要多用一个概念：意志能量来描述。*
+### What is willenergy?
 
-难道一个是一天之内，一个是长期的？
+Under the muscle analogy, willpower also seems to weaken with each use.
 
-神经生物学上：
-意志力被描述为多种感觉。
-神经通路可以是3种：5-羟色胺能、多巴胺能和肾上腺素能通路。
+Repeated exertion starts to limit total maximum capacity for exertion.
 
-多巴胺可能是被讨论最多的。
-但是多巴胺不是调节意志力唯一的通路，而且多巴胺也不是只影响意志力。
+And, eventually, no exertion of willpower is possible.
 
-把意志力和多巴胺直接划等号是过度简化。
 
-但总体上，多巴胺越是活跃，动机越是强烈。
+在肌肉的类比中，意志力似乎也会随着每一次使用而变弱。
+
+不断的使用意志力导致每次使用时的最大极限开始受到限制。
+
+以及最终可能无法再使用意志力。
+
+---
+
+We might reasonably term this scarce resource _willenergy_.
+
+With willpower, even something as seemingly benign as not eating from a bowl of tempting snacks seems to draw down this resource.
+
+Making decisions – passively or actively – seems to exhaust this reserve.
+
+Willenergy depletion leads to [decision fatigue](https://en.wikipedia.org/wiki/Decision_fatigue), in which the quality of our decisions or even the ability to make them at all seems to deteriorate with repeated use of willpower.
+
+For example, after a long day of work, the temptation to crash on the couch, eat junk food and watch TV can quickly override the desire to exercise or cook a balanced meal or engage in activities with long-term benefit.
+
+我们也许能合理的定义这个稀缺的资源为意志能量。
+
+通过意志力，即使像“忍住不吃诱人零食”这种微不足道的事情，也会消耗这种资源。
+
+做决定似乎也会耗尽这种储备，不论是积极的还是消极的。
+
+意志能量的耗尽会导致**决策疲劳**，在这种情况下，我们做决定的质量或者是甚至是做决定的能力似乎都会随着重复使用意志力而**退化**。
+
+比如说，工作了一天之后，你很难再投入到锻炼、做营养餐或者其他长期有利的事情，就想躺在沙发上，吃炸鸡和看电视。
+
+### How are willpower and willenergy related?
+
+You can think of willenergy like a rechargeable smartphone battery.
+
+Just as different apps draw down the battery at different rates, different urges and aversions draw down willenergy at different rates.
+
+In physics, power is the _rate_ at which energy is expended in the moment – the change in energy per unit of time.
+
+By analogy, under this model, the more willpower we exert or the longer we exert it, the less _willenergy_ we have afterward.
+
+And, when willenergy is depleted, no willpower can be exerted.
+
+As a model with testable predictions, I invite you to test this for yourself.
+
+---
+
+意志能量就像手机里的可充电电池。
+
+正如手机里有各种应用以不同的功率消耗电池，各种各样的冲动和厌恶也会以不同的速率来消耗意志力。
+
+在物理上，功率说的是能量瞬时消耗的速率——能量在单位时间内的变化。
+
+类比之下，在这个模型中，我们施加的意志力越多或者越久，剩余的意志能量就越少。
+
+当意志能量**耗尽**时，我们就没有办法再使用意志力了。作为可测试预测的模型，我邀请你自己测试一下它。
+
+## A neurobiological model of will 一个神经生物学的意志模型
+
+The benefit of the “will = willpower & willenergy” model is that it allows you to make predictions about how to influence and manage your will (and hence, akrasia) in day to day, human-scale contexts.
+
+Modern neuroscience has developed complex models of will, as experienced through the sensations of satiety, pleasure, reward, motivation, focus and energy.
+
+Neurotransmission pathways drive these sensations, and three kinds of neurotransmission in particular are responsible for the bulk of them: the seratonergic, dopaminergic and adrenergic pathways.
+
+All three of these pathways can be manipulated, but the dopaminergic pathway is particularly important for motivation.
+
+It is oversimplifying matters to fully equate dopamine and motivation, especially since other actors are involved in the sensation of motivation and dopamine does more than drive motivation.
+
+However, in general, [increasing dopaminergic activity is linked to increased sense of motivation](https://www.nature.com/articles/nrn1406).
+
+
+这个“意志等于意志力加意志能量”的模型可以让你能够预测在日常的、人类层面的情境中，如何影响和管理你的意志（进而影响意志薄弱行为）。
+
+现代神经科学已经发展出了复杂的意志模型，包含了**饱腹感**、喜悦、奖励、欲望、专注和能量。
+
+神经通路驱动着这些感觉，但有3种与大部分感觉尤其相关：**5-羟色胺能、多巴胺能和肾上腺素能通路。**
+
+这三种通路都能被操控，但是多巴胺通路对于欲望来说尤其重要。
+
+将多巴胺与欲望直接划等号是过度简化，事实上多巴胺不是与欲望相关的唯一因素，而且多巴胺也不只是驱动欲望。
+
+然而，总体上来说，多巴胺越是活跃，动机感就越是强烈。
+
+---
+
+The full science of neurotransmission and dopaminergic pathways in particular are beyond the scope of this article, but the neurobiological model provides a gut-check for the more abstract psychological model of will: for any given prediction from the abstract model, we can check to see if it already has known effects on dopaminergic activity.
+
+For a great overview of the neurobiological model, I recommend [this episode of Professor Huberman’s podcast](https://hubermanlab.com/optimize-and-control-your-brain-chemistry-to-improve-health-and-performance/).
+
+关于神经通路，尤其是多巴胺能通路的科学话题超出了本文的范围，但是神经生物学的模型为较抽象的心理意志模型提供了一个**试金石**：对于来自抽象模型的预测，我们可以检查它是否对多巴胺活动的有已知的影响。
+
+关于神经生物学模型的精彩综述，我推荐去听一听[Huberman 教授的播客](https://hubermanlab.com/optimize-and-control-your-brain-chemistry-to-improve-health-and-performance/).
+### Medical warning 医疗警告
+
+One reason I raise the neurobiological model is that if you feel you have a severe or abnormal deficit of will, then you may actually have the condition _aboulia_, atypical depression, or a disorder of diminished motivation.
+
+These conditions requires prompt medical attention from a qualified treatment provider or team of providers.
+
+Aboulia is a side effect of some medications – particularly those which push down dopaminergic activity, such as SSRI-class antidepressants or other dopamine antagonists – so it is important to work with a qualified medical provider when adjusting medications.
 
 但如果医学上有确诊，就应该寻求立刻的医疗支持。
 
