@@ -388,27 +388,87 @@ These conditions requires prompt medical attention from a qualified treatment pr
 
 Aboulia is a side effect of some medications – particularly those which push down dopaminergic activity, such as SSRI-class antidepressants or other dopamine antagonists – so it is important to work with a qualified medical provider when adjusting medications.
 
-但如果医学上有确诊，就应该寻求立刻的医疗支持。
 
-## Should Do/Shouldn’t Do list
+我提到神经生物学模型的原因是如果你感觉你有严重的或不寻常的意志力**缺乏**，那么你可能患有意志缺乏症、非典型抑郁症或动机减弱障碍。
 
-每个人都有一个TODO list，不写下来就是在短期记忆里，或者邮箱里，或者周围的环境里。
+这些情况需要立刻寻求医疗支持，去找一位有资质的医疗服务者，或者一个医疗团队。
 
-自控还需要一个额外的Should/Shouldn’t Do list，默认的列表项来自于你常常后悔的行动
-。
+意志缺乏症是某些药物的副作用——尤其是那些抑制多巴胺能活动的药物，比如选择性 5 - 羟色胺再摄取抑制剂类抗抑郁药或其他多巴胺拮抗剂 —— 因此在调整用药时，务必咨询有资质的医疗服务者。
 
-写到纸上或者笔记app上，每一次出现就添加一个感叹号，衡量强度。
+## Your Should Do/Shouldn’t Do list 你的“应做/不应做”列表
 
-## 破解意志力系统
+Everyone has a To Do list system.
 
-两个策略：
-1. 提高意志力，也就是克服冲动或者厌恶的限度。（我厌恶吵闹环境）
-2. 降低Should Do的难度，提高Shouldn’t Do的难度。
+If you think you don’t have one, then your To Do list system is probably an agglomeration of your short-term memory, your email inbox and objects strewn about the environment that need some kind of attending.
 
-避免进入那些需要很多意志力的场景或者地点。例如节食的时候就不要去餐馆。
+Self-control requires an additional list, your Should/Shouldn’t Do list.
 
-*和去图书馆还有避免手机装游戏是一样的。*
+每个人都有一个待办列表。
 
+如果你没有，那么你的待办列表可能是由你的短期记忆、你的电子邮箱收件箱，还有散落在你周围环境里需要整理的物品拼凑而成的。
+
+自我控制还需要一个额外的列表，那就是我们的“应做/不应做”列表。
+
+---
+
+Everyone has a Should/Shouldn’t Do list too.
+
+The default one is your feeling of regret after action or inaction.
+
+It’s the kind of regret where you say, “I knew better, but I did it anyway.”
+
+Of course, to engage in meaningful self-control, you have to map out what it is you feel you should do, and what it is you feel you shouldn’t do.
+
+每个人也都有一个“应做/不应做”列表。
+
+那些你做了或者没做之后会后悔的事情就是这个列表的“默认值”。
+
+当然，为了实现有意义的自我控制，你得总结出什么事情是你感觉应该做的，什么事情是你感觉不应该做的。
+
+---
+
+The Should/Shouldn’t Do list makes foreseeable regret a measurable concept.
+
+You can measure your prior behavior against this list, and you can figure out if you’re becoming more akratic or less akratic with time.
+
+Once you’ve mapped out your “should dos” and “shouldn’t dos”, then you can start crafting strategies to manage willpower and willenergy that tilt your life toward your should dos and away from your shouldn’t dos.
+
+I strongly encourage you to keep a written list on paper or on your phone.
+
+Every time you catch yourself thinking or saying, “I should X” or “I should have done X” or “I shouldn’t do Y” or “I shouldn’t have done Y”, you can add it to the list if it’s new, or add an exclamation point if it’s already there.
+
+In fact, if you do nothing else from this article but this one activity, you will find yourself stunned by how often you give yourself excellent advice in the moment, only to completely disregard that advice later.
+
+As the exclamation points pile up, this list becomes a dashboard for your self-control (or lack thereof), and it tells you where to focus your efforts in managing willpower and willenergy.
+
+有了这个列表，可预见的后悔就变得可以测量了。
+
+你可以测量之前不在列表上的行为,于是你就能明白经历的意志薄弱是越来越多还是越来越少。
+
+你一旦总结出你应该做的和不应该做的事，那么就可以制定策略来管理你的意志力和意志能量，从而让你的生活更倾向于做你应该做的事，同时远离那些你不应该做的事。
+
+我强烈建议你将列表写下来，无论写在纸上还是记在你的手机里。
+
+每次当你发现自己在想或在说：我应该做什么/我本应做什么/我不应该做什么/我本不应该做什么，你就可以把它添加到这个列表，如果已经在列表里，那就添加一个感叹号。
+
+事实上，如果你读完文章只做这一件事情，其他什么也不做，也会震惊于自己常常在当下给自己很棒的建议，然而随后却完全**无视**了它。
+
+当感叹号积累得越来越多，这个列表就变成了一个自控力（或者缺乏自控力）的仪表盘，然后它会告诉你在管理意志力和意志能量时，应该把精力集中到哪里。
+
+## Hacking willpower 破解意志力系统
+
+Recognizing that there is a maximimum tolerable limit to willpower in any one moment leads to two classes of strategies for managing willpower:
+
+1. The first class of strategies centers on increasing this limit – increasing the maximum urge or aversion that willpower can override.
+    
+2. The second class of strategies focuses on bringing “should do” actions under the limit, while pushing “shouldn’t do” actions over the limit.
+
+既然在任何时刻，意志力都有一个最大可承受限度，那么就产生了两类管理意志力的策略：
+
+1. 第一类是努力提高意志力——也就是提高能克服的冲动或者厌恶的最大限度。
+2. 第二类策略则是把“应该做的事”的难度降低到限度以下，同时把“不应做的事”的难度提高到限度以上。
+
+> 避免进入那些需要很多意志力的场所。例如节食的时候就不要去餐馆，学习就去图书馆。
 
 ## 二、全文机翻
 
