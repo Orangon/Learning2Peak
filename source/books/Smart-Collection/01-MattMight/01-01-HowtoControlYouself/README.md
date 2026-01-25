@@ -468,7 +468,88 @@ Recognizing that there is a maximimum tolerable limit to willpower in any one mo
 1. 第一类是努力提高意志力——也就是提高能克服的冲动或者厌恶的最大限度。
 2. 第二类策略则是把“应该做的事”的难度降低到限度以下，同时把“不应做的事”的难度提高到限度以上。
 
-> 避免进入那些需要很多意志力的场所。例如节食的时候就不要去餐馆，学习就去图书馆。
+### Willpower hack: Avoid temptation 破解意志力：远离诱惑
+
+The existence of a limit to how much temptation one can handle argues strongly in favor avoiding contexts and situations in which willpower has been an insufficient safeguard in the past.
+
+For instance, if you find yourself more likely to overeat at certain restaurants, avoiding these restaurants entirely while on a diet removes the need to exert willpower in the first place.
+
+一个人能承受的诱惑有一个极限，这表示最好远离那些意志力曾经失效的情景或场所。
+
+例如，如果你发现在某些餐馆里就是容易过量饮食，那么可以在节食的时候，压根就不要去这些餐馆，这就能在开始的时候就避免使用意志力。
+
+> 学习就去图书馆。
+
+### Willpower hack: Strengthen through practice 破解意志力：通过练习强化
+
+How can you increase willpower?
+
+That is, how can you increase your maximum tolerance for any momentary urge or aversion?
+
+If the muscle analogy holds, then a progressive overload approach may work for you.
+
+That is, you can steadily acclimate to stronger and stronger temptations over time.
+
+Be careful with this approach, however, as choosing a temptation _beyond_ your limit will cause willpower failure.
+
+In fact, because of this, it’s safer to strengthen willpower by overriding aversions that pose no real harm.
+
+For example, taking a cold shower is a good way to condition your willpower.
+
+If your willpower fails, the only harm is that you’ve not taken a cold shower.
+
+如何增加意志力呢？
+
+这也就是说，如何增加你对于任何转瞬即逝的冲动或厌恶的最大承受能力？
+
+如果肌肉的类比成立，那么渐进式的过载的锻炼方式也许对你有用。
+
+然而要谨慎使用这种方法，因为如果你选择了超过你承受极限的方式，也许会导致意志力崩溃。
+
+事实上，正因如此，更加安全的方式是通过克服一种无害的厌恶来锻炼意志力。
+
+比如说，洗冷水澡就是一种锻炼意志力的好办法。
+
+即使你失败了，唯一糟糕的就是你没有洗成冷水澡。
+### Willpower hack: Reward yourself 破解意志力：自我奖励
+
+If something seems just beyond the limit of your willpower, you may be able to boost that limit in the moment by offering yourself a reward for completing your objective.
+
+For example, you can tell yourself that you’ll get to watch one of your favorite shows _if_ you work on your report for an hour.
+
+假如某件事情似乎刚好超出了你的意志力上限，然后你立刻给自己一次完成目标的奖励，也许能够大幅提高上限。
+
+比如说，你可以告诉自己，如果花了一小时努力写报告，就可以看一场你最喜欢的演出。
+### Willpower hack: Break it down 破解意志力：拆解目标
+
+Alternatively, if instead of setting a reward for a task just beyond the limit, you break down the task into small steps such that the first step is below the limit, then you’ll trick yourself into starting on the task.
+
+For instance, if instead of telling yourself to work on the report for an hour, you tell yourself you’ll just write one sentence of the report, you’ll probably be able to do that much.
+
+Curiously, there’s a very good chance that after the first sentence, you’ll find the willpower to write the very next one.
+
+还有一个办法，不是给这个超过上限的任务设置奖励，而是把任务分解成小的步骤来完成，其中第一步是低于你的意志力上限的，那么你就会“骗”自己开始着手这项任务。
+
+比如，不是告诉自己要用一小时努力写报告，而是告诉自己只需要写一句话，你很有可能就能做到。
+
+有趣的是，当你写完第一句话的时候，你很有可能发现下一句话毫不费力就能写出来。
+### Willpower hack: Make “should do” things easy 破解意志力：把“应做之事”变得容易
+
+It tends to be the case that the things you feel like you _should_ do are those where there is future gain and present pain.
+
+Consequently, the easier you make it to do these things, then the greater the chance it will fall within the limit of your willpower.
+
+For instance, if you find yourself struggling to eat healthier foods, you can put those healthier foods right on the counter or toward the front of the refrigerator/pantry as a reminder to eat them.
+
+Or, if you find yourself struggling to make your morning run, you can lay out your workout clothes the night before (or even sleep in them!) and then place your running shoes and socks right next to the door.
+
+那些你觉得应该做的事情，常常是会在未来给你回报，而在当下让你遭受痛苦。
+
+因此，如果你把应该做的事变得越容易，那么它们越有可能落在意志力可承受程度内。
+
+比如说，如果你发现健康食品难以下咽，你就可以把它们直接放在柜台上，或者放在冰箱最显眼的位置，来提醒自己去吃它们。
+
+如果你发现晨跑很难，就可以在前一晚把运动服摆好（甚至是穿着睡觉！），同时把运动鞋和袜子放在门口。
 
 ## 二、全文机翻
 
