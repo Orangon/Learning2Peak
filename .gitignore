@@ -2,8 +2,13 @@
 
 #################### Node.gitignore ####################
 
+# obsidian
+.obsidian/
+
+
 # CLAUDE
 *.local*
+.mcp.json
 # IDEA
 .idea/
 
