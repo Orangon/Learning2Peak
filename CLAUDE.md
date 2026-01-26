@@ -29,17 +29,18 @@ npm install gitsite-cli -g
 gitsite-cli build -o _site -v
 
 # 启动开发服务器
-gitsite-cli serve
+gitsite-cli serve -p 3010
 
-# 构建并部署到 GitHub Pages
-gitsite-cli build -o _site -v
 ```
 
-### 本地开发
-```bash
-# 开发服务器运行在端口 3000
-gitsite-cli serve
-```
+### 导出 PDF
+
+访问链接导出 AI-Coding
+http://localhost:3000/Learning2Peak/books/AI-Coding/pdf
+
+文件会自动生成并下载，首先保存到 .cache 目录，然后是浏览器下载目录。
+
+[参考文档](https://gitsite.org/books/gitsite-guide/create-pdf/index.html)
 
 ## 项目结构
 
