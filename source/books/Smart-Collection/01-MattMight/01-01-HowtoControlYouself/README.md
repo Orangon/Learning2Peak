@@ -549,8 +549,90 @@ Or, if you find yourself struggling to make your morning run, you can lay out yo
 
 比如说，如果你发现健康食品难以下咽，你就可以把它们直接放在柜台上，或者放在冰箱最显眼的位置，来提醒自己去吃它们。
 
-如果你发现晨跑很难，就可以在前一晚把运动服摆好（甚至是穿着睡觉！），同时把运动鞋和袜子放在门口。
+如果你觉得晨跑很难，可以在前一晚就把运动服摆好（甚至是穿着睡觉！），同时把运动鞋和袜子放在门口。
 
+### Willpower hack: Shift hard tasks to high willpower times 破解意志力：将难题安排在意志力强的时间段
+
+In the neurobiological model, dopamine is highest after restful sleep.
+
+As a result, it makes sense to take on your most dreaded tasks first thing in the morning, when you’re more likely to have the willpower to face them.
+
+Ultimately, this may even require shifting your sleep schedule to make sure you have time in the morning to focus on your most challenging tasks.
+
+在神经生物学模型中，充分睡眠后的多巴胺水平最高。
+
+因此，在早晨先做最困难的问题比较合理，因为此时你更有可能拥有面对它们的意志力。
+
+最终，你甚至可能需要改变你的作息，来保证早晨有足够的时间专注于最有挑战的任务。
+
+### Willpower hack: Make the “shouldn’t do” things hard 破解意志力：把”不应做之事“变得困难
+
+Just as things you feel you _should_ do have future gain and present pain, the “shouldn’t do” things tend to have future pain and present gain.
+
+As a result, the harder you make it to do these things, the greater the chance you will have the willpower to avoid them.
+
+For example, you could place junk food in hard to reach places if your goal is to eat less of it.
+
+Or, you could not even have it in the house, so that when a craving hits, now you have to go all the way to the grocery store.
+
+正如”应做之事“是在未来获得回报，而在当下带来痛苦，”不应做之事“则相反。
+
+因此，你把不应做之事变得越困难，你越有可能避免它们。
+
+比如说，如果你的目标是少吃垃圾食品，那么你可以把它们放在不容易拿到的地方。
+
+或者你甚至可以不在家存放垃圾食品。这样一来，当你很想吃的时候，你得一路走到超市去买。
+### Willpower hack: Leverage high willpower during low willpower 破解意志力：利用高意志力时期制约低意志力时期
+
+In [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B09YTXNR2H?_encoding=UTF8&qid=1662121609&sr=8-1&linkCode=ll1&tag=mmamzn06-20&linkId=ef16a1713ba86c29328bd2ee66e66683&language=en_US&ref_=as_li_ss_tl), James Clear talks about “[commitment devices](https://en.wikipedia.org/wiki/Commitment_device)” – mechanisms that allow you to leverage high willpower against times when you know you may have low willpower.
+
+A commitment device is a way of locking in the actions of your future self when willpower would otherwise be insufficient in the moment.
+
+That is, it allows you to leverage a high willpower state in the present to protect against a low willpower state in the future.
+
+For an inventory of such techniques, I recommend [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B09YTXNR2H?_encoding=UTF8&qid=1662121609&sr=8-1&linkCode=ll1&tag=mmamzn06-20&linkId=ef16a1713ba86c29328bd2ee66e66683&language=en_US&ref_=as_li_ss_tl).
+
+One simple example of a commitment device is to throw out all of the junk foods in your home when dieting while you’re not hungry.
+
+Or, you could set your internet router or your web browser to block out web sites that you feel waste your time after 9 PM (or even all the time).
+
+在《原子习惯》这本书中，James Clear提到了”承诺机制“——一种能让你利用意志力强大的时期来**制约**你知道可能意志力低下时期的机制。
+
+承诺机制是一种在意志力不足以应对当下情况时，锁定未来自己行为的方法。
+
+也就是说，它能够让你利用当下的高意志力状态低于将来可能出现的低意志力状态。
+
+想了解这种技术的汇总，我推荐你读《原子习惯》这本书。
+
+一个简单的例子是，如果你在节食，可以在你不饿的时候就把所有的垃圾食品扔出家门。
+
+或者你可以通过设置你的路由器或者浏览器，来禁止在晚上 9 点以后（甚至是整天）访问让你感觉浪费时间的网站。
+
+## Hacking willenergy
+
+Seen as a scare resource, willenergy is subject to optimization in the same way all resources (_e_._g_. time, money, attention) are: how should you allocate this limited resource in order to maximize its effectiveness?
+
+In addition, we can look at how to increase the available willenergy.
+
+### Willenergy hack: Avoid temptation
+
+As with willpower, avoiding temptation works for conserving willenergy.
+
+Even when you do have the willpower to resist a temptation, resisting it still costs you willenergy.
+
+So, avoiding temptation is doubly important when harnessing self-control.
+
+### Willenergy hack: Sleep
+
+If willenergy is a finite resource, it’s natural to wonder when it gets refilled.
+
+Sleep is one of the most important ways to replenish willenergy.
+
+Once again, through the lens of neurobiology, dopamine is highest after sleeping, and it wanes with every waking hour.
+
+Everyone is familiar with the negative effects of fatigue and lack of sleep on decision-making.
+
+Getting enough sleep and getting high-quality sleep are among the simplest ways to boost your reserve of willenergy.
 ## 二、全文机翻
 
 以下是 Matt Might 的文章《如何自我控制》（How to Control Yourself）的全文翻译。针对你的需求，我采用了简洁明了的表达方式。
