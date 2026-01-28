@@ -460,7 +460,6 @@ As the exclamation points pile up, this list becomes a dashboard for your self-c
 Recognizing that there is a maximimum tolerable limit to willpower in any one moment leads to two classes of strategies for managing willpower:
 
 1. The first class of strategies centers on increasing this limit – increasing the maximum urge or aversion that willpower can override.
-    
 2. The second class of strategies focuses on bringing “should do” actions under the limit, while pushing “shouldn’t do” actions over the limit.
 
 既然在任何时刻，意志力都有一个最大可承受限度，那么就产生了两类管理意志力的策略：
@@ -608,13 +607,16 @@ Or, you could set your internet router or your web browser to block out web site
 
 或者你可以通过设置你的路由器或者浏览器，来禁止在晚上 9 点以后（甚至是整天）访问让你感觉浪费时间的网站。
 
-## Hacking willenergy
+## Hacking willenergy 破解意志能量
 
 Seen as a scare resource, willenergy is subject to optimization in the same way all resources (_e_._g_. time, money, attention) are: how should you allocate this limited resource in order to maximize its effectiveness?
 
 In addition, we can look at how to increase the available willenergy.
 
-### Willenergy hack: Avoid temptation
+既然被视为一种稀缺的资源，那么意志能量就和其他所有资源（例如时间、金钱、注意力）一样需要优化：你应该如何分配这种有限的资源，以使得效用最大化呢？
+
+另外，我们还会研究如何增加可用的意志能量。
+### Willenergy hack: Avoid temptation 破解意志能量：远离诱惑
 
 As with willpower, avoiding temptation works for conserving willenergy.
 
@@ -622,7 +624,12 @@ Even when you do have the willpower to resist a temptation, resisting it still c
 
 So, avoiding temptation is doubly important when harnessing self-control.
 
-### Willenergy hack: Sleep
+和意志力一样，远离诱惑对于节约意志能量同样有用。
+
+甚至是当你利用意志力来抵抗诱惑，这也会消耗你的意志能量。
+
+所以对于**运用**自控力来说，远离诱惑具有双重的重要性。
+### Willenergy hack: Sleep 破解意志能量：好好睡觉
 
 If willenergy is a finite resource, it’s natural to wonder when it gets refilled.
 
@@ -633,6 +640,30 @@ Once again, through the lens of neurobiology, dopamine is highest after sleeping
 Everyone is familiar with the negative effects of fatigue and lack of sleep on decision-making.
 
 Getting enough sleep and getting high-quality sleep are among the simplest ways to boost your reserve of willenergy.
+
+如果说意志能量是一种有限的资源，那么我们自然会好奇它何时会得到**补充**？
+
+睡眠就是**恢复**意志能量的最重要的方法之一。
+
+再一次，从神经生物学的角度来说，多巴胺的水平在睡醒之后是最高的，同时他会在清醒着的时间里持续**减少**。
+
+我们都知道疲劳或睡眠不足会对决策产生负面影响。
+
+而获得充足的、高质量的睡眠，是**提升意志能量储备**的最简单方法**之一**。
+
+### Willenergy hack: Eat well 破解意志能量：好好吃饭
+
+Proper nutrition seems essential to managing willenergy as well.
+
+Unbalanced, sugar-heavy diets that send dopamine surging (and then crashing) can lead to unevenness in willenergy over the course of the day, over even lead to dependence on sugar to spark motivation.
+
+Eating a balanced diet is important for keeping willenergy consistent over the course of the day.
+
+摄入适当的营养素似乎对管理意志能量也至关重要。
+
+不均衡的、高糖的饮食会让多巴胺飙升（随后骤降），这会导致一天之中意志能量的**不稳定**，甚至会导致人依赖糖分来获得足够的动力。
+
+均衡饮食对于一天之中保持意志能量的**稳定**非常重要。
 ## 二、全文机翻
 
 以下是 Matt Might 的文章《如何自我控制》（How to Control Yourself）的全文翻译。针对你的需求，我采用了简洁明了的表达方式。
