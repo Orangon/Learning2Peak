@@ -664,6 +664,47 @@ Eating a balanced diet is important for keeping willenergy consistent over the c
 不均衡的、高糖的饮食会让多巴胺飙升（随后骤降），这会导致一天之中意志能量的**不稳定**，甚至会导致人依赖糖分来获得足够的动力。
 
 均衡饮食对于一天之中保持意志能量的**稳定**非常重要。
+
+### Willenergy hack: Exercise 破解意志能量：锻炼身体
+
+Somewhat paradoxically, exercise boosts willenergy.
+
+While exercise may deplete physical energy, [exercise can increase motivation by modulating neurotransmission](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4061837/).
+
+I’ve taken this approach to an extreme, combining a [walking pad](https://www.amazon.com/Walking-Treadmill-Control-Treamill-Machine/dp/B0BF4SBYGX?crid=3QUK3AIYZ6NPJ&keywords=treadmill&qid=1667166037&qu=eyJxc2MiOiI2LjkzIiwicXNhIjoiNy4xNCIsInFzcCI6IjUuNzkifQ%3D%3D&sprefix=treadmill%2Caps%2C234&sr=8-21&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&linkCode=ll1&tag=mmamzn06-20&linkId=693ace81b6571cbefe43c395414ca916&language=en_US&ref_=as_li_ss_tl) treadmill and a [motorized standing desk](https://www.amazon.com/Furmax-Electric-Adjustable-Standing-Computer/dp/B09TJFNJ19?crid=3G9MOVKFKTAO2&keywords=standing%2Bdesk&qid=1667166291&qu=eyJxc2MiOiI4LjE0IiwicXNhIjoiOC4yNSIsInFzcCI6IjcuODEifQ%3D%3D&sprefix=standing%2Bdes%2Caps%2C132&sr=8-6&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&th=1&linkCode=ll1&tag=mmamzn06-20&linkId=850f5aaf838a93192c7ebac6987dd99b&language=en_US&ref_=as_li_ss_tl) to create an environment that enables me to combine constant low-grade exercise with work all day long:
+
+有点自相矛盾的是，锻炼身体反而会提高意志能量。
+
+虽然锻炼可能会消耗体力，但可以通过调节神经传递来增强动力。
+
+我把这个方法发挥到了极致，结合了一台走步机和一张电动升降桌，打造了一个能让我一整天都把持续低强度的锻炼和工作结合起来的环境。
+
+---
+
+There are [combined treadmill and desk](https://www.amazon.com/THERUN-Treadmill-Folding-Electric-Assembly/dp/B09TW3BCV6?crid=3QUK3AIYZ6NPJ&keywords=treadmill&qid=1667166037&qu=eyJxc2MiOiI2LjkzIiwicXNhIjoiNy4xNCIsInFzcCI6IjUuNzkifQ%3D%3D&sprefix=treadmill%2Caps%2C234&sr=8-18&linkCode=ll1&tag=mmamzn06-20&linkId=d6621723be9ba81e8f503846954cd2e7&language=en_US&ref_=as_li_ss_tl) solutions as well:
+
+I’ve used bike desks in the past and while they offer superior caloric burn rates to treadmills, I find them hard to use for more than an hour at a time.
+
+For my work office, I slid an under desk elliptical machine in front of my chair, and this allows me to maintain a constant rate of low-grade exercise even there:
+
+市面上也有将走步机和桌子结合的产品。
+
+我曾经用过自行车办公桌，尽管它们的卡路里消耗率比走步机更高，但我发现我很难一次连续使用一小时以上。
+
+在我的办公室里，我在椅子前放了一个桌下椭圆机，这样即使在办公室我也能保证持续不断的低强度锻炼。
+### Willenergy hack: Automate
+
+Any regular task that can be automated should be automated, so that a task that otherwise would need even a small amount of willpower will no longer draw from the reserve.
+
+The effect of automating large tasks will be immediately apparent, but automating a large number of small daily tasks can also have a dramatic impact.
+
+For Apple users, Shortcuts on both macOS and iOS have become powerful ways to automate in whole or in part many common tasks.
+
+### Willenergy hack: Form habits
+
+For tasks that require some level of human intelligence, anything that can be made truly habitual will avoid drawing on the reserve of willenergy, because the decision-making and execution will occur below the threshold of conscious thought.
+
+For powerful advice on how to create automatic habits, I recommend [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B09YTXNR2H?_encoding=UTF8&qid=1662121609&sr=8-1&linkCode=ll1&tag=mmamzn06-20&linkId=ef16a1713ba86c29328bd2ee66e66683&language=en_US&ref_=as_li_ss_tl) by James Clear.
 ## 二、全文机翻
 
 以下是 Matt Might 的文章《如何自我控制》（How to Control Yourself）的全文翻译。针对你的需求，我采用了简洁明了的表达方式。
