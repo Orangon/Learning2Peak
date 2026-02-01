@@ -692,7 +692,7 @@ For my work office, I slid an under desk elliptical machine in front of my chair
 我曾经用过自行车办公桌，尽管它们的卡路里消耗率比走步机更高，但我发现我很难一次连续使用一小时以上。
 
 在我的办公室里，我在椅子前放了一个桌下椭圆机，这样即使在办公室我也能保证持续不断的低强度锻炼。
-### Willenergy hack: Automate
+### Willenergy hack: Automate 破解意志能量：自动化
 
 Any regular task that can be automated should be automated, so that a task that otherwise would need even a small amount of willpower will no longer draw from the reserve.
 
@@ -700,20 +700,92 @@ The effect of automating large tasks will be immediately apparent, but automatin
 
 For Apple users, Shortcuts on both macOS and iOS have become powerful ways to automate in whole or in part many common tasks.
 
-### Willenergy hack: Form habits
+任何可以被自动化的常规任务都应该被自动化，这样一来，那些原本哪怕只需要一点点意志力的任务，也将不再**消耗意志力储备**。
+
+将大型任务自动化的效果是立竿见影的，而将大量的小的日常任务自动化，也会带来意想不到的效果。
+
+对于苹果用户来说，macOS和iOS系统的”快捷指令“已经是将日常工作全部或部分自动化的强大手段。
+### Willenergy hack: Form habits 破解意志能量：形成习惯
 
 For tasks that require some level of human intelligence, anything that can be made truly habitual will avoid drawing on the reserve of willenergy, because the decision-making and execution will occur below the threshold of conscious thought.
 
 For powerful advice on how to create automatic habits, I recommend [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/B09YTXNR2H?_encoding=UTF8&qid=1662121609&sr=8-1&linkCode=ll1&tag=mmamzn06-20&linkId=ef16a1713ba86c29328bd2ee66e66683&language=en_US&ref_=as_li_ss_tl) by James Clear.
+
+对于那些需要一定智力水平的任务，任何能够真正形成习惯的事情都能避免使用意志力储备，因为那样的话，决策和执行就会在潜意识中进行。
+
+关于如何养成自动化习惯的有效建议，我推荐James Clear的《原子习惯》。
+## Willenergy bankruptcy: A vicious cycle of willenergy depletion 意志能量破产：意志耗尽的恶性循环
+
+The techniques needed to boost willenergy, somewhat paradoxically, often need a modest exertion _of_ willpower.
+
+For example, eating well, sleeping enough and exercising regularly require small draws of willenergy.
+
+Importantly, these behaviors _create_ more willenergy than they consume.
+
+However, if one hits “willenergy zero,” maintaining good sleep habits, proper diet and regular exercise becomes difficult.
+
+As a result, your starting reserve of willenergy become lower and lower on a day to day basis.
+
+This makes it ever harder to get good sleep, nutrition and exercise.
+
+用来增强意志力的技巧，却常常需要适度使用意志能量来执行，这有点矛盾。
+
+比如，好好吃饭，充足睡眠和有规律地锻炼其实需要花费少量的意志能量。
+
+而重要的是，这些行为产生的意志能量比消耗的更多。
+
+然而若是你达到了”意志能量零点“，维持好的睡眠习惯、适当的饮食和规律的锻炼会变得十分困难。
+
+结果是，你初始的能量储备会日复一日地变得越来越少。
+
+睡得好、吃得好还有规律锻炼就变得更难了。
+
+---
+Without intervention, this vicious downward spiral can lead to burnout, feelings of helplessness and sense that you have lost your agency.
+
+If you find yourself totally depleted of willenergy, it may be time for “willenergy bankruptcy.”
+
+In a financial bankruptcy, it’s possible to restructure obligations to make paying them off in whole or at least in part possible.
+
+In a willenergy bankruptcy, you have unilateral permission to restructure and dump obligations so that you get enough time to eat well, sleep enough and exercise regularly.
+
+For example during a willenergy bankruptcy, you can move your entire email inbox into a folder labeled with today’s date and “willenergy bankruptcy.”
+
+Once you have the virtuous cycle re-established, steadily raising your willenergy with time, then you can consider picking up lingering obligations with the surplus.
+
+如果不加干预，这种恶性的下行螺旋会导致你感觉**精力耗尽、无助和失去自主能力**。
+
+如果你发现自己的意志能量完全枯竭，也许就到了“意志能量**破产**”的时候了。
+
+在财务破产时，通过重组**债务**有可能把债务还清，或者至少把能还的还上。
+
+而在能量破产时，你有权**单方面**重组和**舍弃**一部分责任，这样一来就有足够的时间好好吃饭，睡个好觉，还有定期锻炼。
+
+例如，当你在意志能量破产期间，你可以将整个电子邮件的收件箱挪到一个文件夹里，然后标记今天的日期和“意志能量破产”。
+
+一旦重新建立起正向循环，随时间推移逐渐稳步提高你的意志能量，之后你就可以考虑利用**过剩的**意志能量处理**未完成**的任务了。
+## Caveat: Self-control versus behavior change 注意：自控力VS行为改变
+
+This article focused on self-control when it comes to the moment of choice.
+
+Self-control is a key factor in the more general process of behavior change, and real behavior change is hard without being mindful of the principles that determine self-control.
+
+But, self-control is not the only factor involved in behavior change.
+
+In fact, my hope is that this article indirectly explains why relying on self-control _alone_ is a problematic when confronting addiction, habit formation or behavior change more generally.
+
+Real behavior change relies on designing your lifestyle to avoid drawing down on the very limited resources that underpin the will.
+
+这篇文章关注的是做选择时的自我控制。
+
+自我控制是更普遍的行为改变过程中的关键因素，而如果不留意决定自控力的原则，也很难真正地改变行为。
+
+但，自我控制并非参与行为改变的唯一因素。
+
+事实上，我希望这篇文章能间接解释，为什么在应对上瘾、习惯养成或者更一般的行为改变，仅依赖自控力是存在问题的。
+
+真正的行为改变在于规划你的生活方式，一直避免消耗那些支持意志力的及其有限的资源。
 ## 二、全文机翻
-
-以下是 Matt Might 的文章《如何自我控制》（How to Control Yourself）的全文翻译。针对你的需求，我采用了简洁明了的表达方式。
-
----
-
-以下是 Matt Might 教授的文章《如何控制自己》（_How to Control Yourself_）的全文逐字翻译，力求保持原意与语气，不进行任何额外修饰。
-
----
 
 ### **如何：控制你自己**
 
